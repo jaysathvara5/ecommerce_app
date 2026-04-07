@@ -68,7 +68,7 @@ class _WishlistPageState extends State<WishlistPage> {
           children: [
             Icon(Icons.favorite_border, size: 80, color: Colors.grey.shade300),
             const SizedBox(height: 16),
-            Text("Your wishlist is empty", style: TextStyle(fontSize: 18, color: Colors.grey.shade500, fontWeight: FontWeight.w500)),
+            Text("Your wishlist is emptys", style: TextStyle(fontSize: 18, color: Colors.grey.shade500, fontWeight: FontWeight.w500)),
             const SizedBox(height: 8),
             Text("Save items you love here", style: TextStyle(fontSize: 14, color: Colors.grey.shade400)),
           ],
